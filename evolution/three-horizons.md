@@ -77,4 +77,4 @@ Não escolhe topologia, memória nem modelo. Também não antecipa o horizonte 2
 
 ## Segue para
 
-Arquitetura da versão do horizonte 1: topologia, memória, ação e supervisão, escolha do motor.
+Arquitetura da versão do horizonte 1: [topologia](../architecture/orchestration-topology.md), [memória](../architecture/memory.md), [ação e supervisão](../architecture/action-and-supervision.md) e [escolha do motor](../architecture/reasoning-engine.md).
