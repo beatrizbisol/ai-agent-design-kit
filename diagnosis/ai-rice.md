@@ -81,4 +81,4 @@ Não escreve o problema, a métrica de sucesso nem o critério para encerrar. A 
 
 ## Segue para
 
-Brief de caso de uso da iniciativa que ficou no Agora, e o mapa de stakeholders e riscos dessa mesma iniciativa. Os dois entram no pull request de caso de uso.
+[Brief de caso de uso](../use-case/brief.md) da iniciativa que ficou no Agora, e o [mapa de stakeholders e riscos](../use-case/stakeholders-and-risks.md) dessa mesma iniciativa.
