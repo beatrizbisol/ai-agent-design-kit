@@ -22,5 +22,6 @@ Até o brief, a pergunta é qual problema vale a pena e qual é a rota mais simp
 | 1 | Descoberta | [SIPOC](discovery/sipoc.md), [radar de oportunidade](discovery/opportunity-radar.md), [mapa de oportunidades](discovery/opportunity-map.md) |
 | 2 | Diagnóstico e priorização | [Matriz de diagnóstico de tarefas](diagnosis/task-diagnosis-matrix.md), [Impacto × Viabilidade](diagnosis/impact-viability.md), [AI-RICE](diagnosis/ai-rice.md) |
 | 3 | Caso de uso | [Brief](use-case/brief.md), [stakeholders e riscos](use-case/stakeholders-and-risks.md) |
+| 4 | Experiência | [Storyboard](experience/storyboard.md), [protótipo conceitual](experience/conceptual-prototype.md) |
 
-Os temas seguintes entram nos próximos pull requests: experiência, evolução e arquitetura.
+Os temas seguintes entram nos próximos pull requests: evolução e arquitetura.

@@ -181,4 +181,4 @@ Não desenha a jornada quadro a quadro nem a arquitetura. Também não autoriza 
 
 ## Segue para
 
-[Stakeholders e riscos](stakeholders-and-risks.md), se o mapa ainda estiver rascunho. Com os dois fechados, o próximo tema é a experiência: storyboard e protótipo conceitual.
+[Stakeholders e riscos](stakeholders-and-risks.md), se o mapa ainda estiver rascunho. Com os dois fechados, siga para o [storyboard](../experience/storyboard.md).
