@@ -64,4 +64,4 @@ Não diz se a tarefa pede regra, IA pontual, agente ou pessoa. Não calcula reto
 
 ## Segue para
 
-Matriz de diagnóstico de tarefas, uma passagem por linha deste mapa. Esse template entra no pull request de diagnóstico e priorização.
+[Matriz de diagnóstico de tarefas](../diagnosis/task-diagnosis-matrix.md), uma passagem por linha deste mapa.
