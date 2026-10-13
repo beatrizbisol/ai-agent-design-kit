@@ -97,4 +97,4 @@ Não prioriza o portfólio e não desenha a tela. Se a salvaguarda e a autonomia
 
 ## Segue para
 
-Storyboard da mesma iniciativa, no tema de experiência.
+[Storyboard](../experience/storyboard.md) da mesma iniciativa.

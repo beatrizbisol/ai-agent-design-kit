@@ -24,5 +24,6 @@ Até o brief, a pergunta é qual problema vale a pena e qual é a rota mais simp
 | 3 | Caso de uso | [Brief](use-case/brief.md), [stakeholders e riscos](use-case/stakeholders-and-risks.md) |
 | 4 | Experiência | [Storyboard](experience/storyboard.md), [protótipo conceitual](experience/conceptual-prototype.md) |
 | 5 | Evolução | [Roadmap de 3 horizontes](evolution/three-horizons.md) |
+| 6 | Arquitetura | [Topologia](architecture/orchestration-topology.md), [memória](architecture/memory.md), [ação e supervisão](architecture/action-and-supervision.md), [escolha do motor](architecture/reasoning-engine.md) |
 
-O tema seguinte entra no próximo pull request: arquitetura.
+A arquitetura descreve o horizonte que está em construção. Trocar de horizonte reabre esses quatro arquivos.
